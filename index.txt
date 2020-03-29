@@ -1,0 +1,37 @@
+Clipboard
+Font
+Paragraph
+Styles
+Edits
+Cover Page
+Tables
+Picture
+Shapes
+Smart Art
+Chart
+Screen Shot
+Hyperlink
+bookmark
+Cross Reference
+Comments
+Header & Footer
+Word Art
+Equation & Symbols ° 0176
+Watermark
+Page Color 
+Page Border
+Page Setup
+Table of Contents
+Footnotes
+Citations & Biblogaphy
+Captions
+Index
+Table of Authorities
+Mail Merge
+
+ It was first announced by Bill Gates on August 1, 1988
+ Visual Basic 1.0 was introduced in 1991.
+ 
+ 
+ Microsoft Excel is a spreadsheet developed by Microsoft for Windows, macOS, Android and iOS.
+ A spreadsheet is a computer application for organization, analysis and storage of data in tabular form.
